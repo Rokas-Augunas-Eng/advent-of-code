@@ -1,0 +1,15 @@
+{
+	"name": "advent-of-code",
+	"version": "1.0.0",
+	"description": "JS Solutions to Advent of Code puzzles (adventofcode.com)",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Rokas-Augunas-Eng/advent-of-code"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"lodash": "^4.17.21"
+	},
+	"type": "module"
+}
