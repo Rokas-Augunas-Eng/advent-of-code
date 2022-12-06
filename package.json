@@ -6,6 +6,9 @@
 		"type": "git",
 		"url": "git+https://github.com/Rokas-Augunas-Eng/advent-of-code"
 	},
+	"scripts": {
+		"dev": "nodemon start"
+	},
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
